@@ -24,7 +24,7 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 ## 🖼️ Demo
 
 ### 🔐 Face Authentication  
-![Face Authentication](https://github.com/digambar2002/image-hosting/blob/main/How_to_make_Jarvis_in_Python__voice_assistant__jarvis_iron_m.gif)
+![Face Authentication]("C:\Users\Administrator\OneDrive\Pictures\Screenshots\Screenshot 2026-11-16 163942.png")
 
 ### 🎤 Speech to Text Recognition  
 ![Speech to Text](https://github.com/digambar2002/image-hosting/blob/main/e.gif)
