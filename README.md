@@ -24,13 +24,16 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 ## 🖼️ Demo
 
 ### 🔐 Face Authentication  
-![Face Authentication](Screenshot 2026-11-16 163942.png)
+![Face Authentication](https://github.com/shivuu1610/Jarvis-/blob/main/Screenshot%202026-11-16%20163942.png)
 
 ### 🎤 Speech to Text Recognition  
-![Speech to Text](https://github.com/digambar2002/image-hosting/blob/main/e.gif)
+![Speech to Text](https://github.com/shivuu1610/Jarvis-/blob/main/Screenshot%202026-11-16%20163849.png)
+
+### 🎤 Listening to voice commands
+![Listen to Voice Commands](https://github.com/shivuu1610/Jarvis-/blob/main/Screenshot%202026-11-16%20163849.png)
 
 ### 🎵 Play Music on Spotify  
-![Play Music in Spotify](https://github.com/digambar2002/image-hosting/blob/main/2.gif)
+![Play Music in Spotify](https://github.com/shivuu1610/Jarvis-/blob/main/Screenshot%202026-11-16%20163901.png)
 
 ---
 
