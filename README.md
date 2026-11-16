@@ -30,7 +30,7 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 ![Speech to Text](https://github.com/shivuu1610/Jarvis-/blob/main/Screenshot%202026-11-16%20163849.png)
 
 ### 🎤 Listening to voice commands
-![Listen to Voice Commands](https://github.com/shivuu1610/Jarvis-/blob/main/Screenshot%202026-11-16%20163849.png)
+![Listen to Voice Commands](https://github.com/shivuu1610/Jarvis-/blob/main/Screenshot%202026-11-16%20163829.png)
 
 ### 🎵 Play Music on Spotify  
 ![Play Music in Spotify](https://github.com/shivuu1610/Jarvis-/blob/main/Screenshot%202026-11-16%20163901.png)
